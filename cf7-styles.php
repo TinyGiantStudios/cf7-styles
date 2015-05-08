@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Contact Form 7 Designer
-Version: 1.0
+Version: 1.1
 Plugin URI: http://tinygiantstudios.co.uk
 Author: Tiny Giant Studios
 Author URI: http://www.tinygiantstudios.co.uk

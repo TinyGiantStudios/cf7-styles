@@ -4,7 +4,7 @@ Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&business=info@tin
 Tags: contact form 7, CF7, contact form, CF, contact form 7 css, CF7 css, contact form 7 styles, CF styles, contact form 7 designer, cf7 designer, forms, form css, form styling, form stylesheet, form css stylesheet, quform, gravity forms, ninja forms
 Requires at least: 3.8
 Tested up to: 4.1.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -111,11 +111,16 @@ Bug reports for [Contact Form 7 Designer are welcomed on GitHub](https://github.
 
 == Changelog ==
 
+= 1.1 - 8 May 2015 =
+* Security Fix: Updated TGM activation class 
+
 = 1.0 - 17 February 2015 =
 * Initial Release
 
 == Upgrade Notice ==
 
-= 1.0 =
+= 1.1 =
+Security update along with WP 4.2+
 
+= 1.0 =
 The start of great things to come.
